@@ -52,7 +52,7 @@ const carta = () => {
            imagenCarta = 'https://raw.githubusercontent.com/Lemoncode/fotos-ejemplos/main/cartas/back.jpg';
    }
 
-   return { valor, imagenCarta };
+   return (valor, imagenCarta);
 };
 
 
